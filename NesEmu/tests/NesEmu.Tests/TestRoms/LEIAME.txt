@@ -1,0 +1,4 @@
+Coloque aqui, para o teste NestestTests rodar:
+  nestest.nes   (ROM de teste de CPU, distribuída livremente por Kevin Horton)
+  nestest.log   (log de referência com o estado da CPU a cada instrução)
+Sem esses dois arquivos o teste é pulado (Skipped), não falha.
